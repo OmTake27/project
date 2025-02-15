@@ -1,4 +1,4 @@
 # project
 This is my first git repository 
-<b>
+<br>
 author  -  Om Take
